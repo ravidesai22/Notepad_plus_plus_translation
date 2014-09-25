@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="Windows-1252" ?>
+<?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <Native-Langue name="English" filename="english.xml" >
         <Menu>
@@ -62,52 +62,52 @@
                 
                 <!-- all menu item -->
                 <Commands>
-                    <Item id="41001" name="&amp;New"/>
-                    <Item id="41002" name="&amp;Open"/>
-                    <Item id="41003" name="Close"/>
-                    <Item id="41004" name="C&amp;lose All"/>
-                    <Item id="41005" name="Close All BUT Current Document"/>
-                    <Item id="41006" name="&amp;Save"/>
-                    <Item id="41007" name="Sav&amp;e All"/>
-                    <Item id="41008" name="Save &amp;As..."/>
-                    <Item id="41010" name="Print..."/>
-                    <Item id="1001"  name="Print Now"/>
-                    <Item id="41011" name="E&amp;xit"/>
-                    <Item id="41012" name="Load Session..."/>
-                    <Item id="41013" name="Save Session..."/>
-                    <Item id="41014" name="Reload from Disk"/>
-                    <Item id="41015" name="Save a Copy As..."/>
-                    <Item id="41016" name="Delete from Disk"/>
-                    <Item id="41017" name="Rename..."/>
+                    <Item id="41001" name="&amp;નવું"/>
+                    <Item id="41002" name="&amp;ખોલો"/>
+                    <Item id="41003" name=" બંધ કરો"/>
+                    <Item id="41004" name="&amp;બધું બંધ કરો "/>
+                    <Item id="41005" name="બધું બંધ કરો સિવાય કે વર્તમાન દસ્તાવેજ "/> <!-- can be improvised, "બધું બંધ કરો વર્તમાન દસ્તાવેજ  ને છોડી ને "-->
+                    <Item id="41006" name="&amp;સંગિહત કરો"/>
+                    <Item id="41007" name="&amp;બધાનો સંગહ કરો"/>
+                    <Item id="41008" name="આ રીતે સંગહ કરો..."/>
+                    <Item id="41010" name=" છાપો..."/>
+                    <Item id="1001"  name="હમણાં છાપો..."/>
+                    <Item id="41011" name="બહાર નીકળો"/>
+                    <Item id="41012" name="સત્ર લાવો ..."/>
+                    <Item id="41013" name="સત્ર સંગ્રહિત કરો..."/>
+                    <Item id="41014" name="ડિસ્ક થી ફરી લાવો "/> <!-- can be improvised -->
+                    <Item id="41015" name="નકલ ને આ રીતે સંગહ કરો ..."/>
+                    <Item id="41016" name="ડિસ્ક પરથી કાઢી નાંખો"/>
+                    <Item id="41017" name="નામ બદલો..."/>
                     
-                    <Item id="42001" name="Cu&amp;t"/>
-                    <Item id="42002" name="&amp;Copy"/>
-                    <Item id="42003" name="&amp;Undo"/>
-                    <Item id="42004" name="&amp;Redo"/>
-                    <Item id="42005" name="&amp;Paste"/>
-                    <Item id="42006" name="&amp;Delete"/>
-                    <Item id="42007" name="Select A&amp;ll"/>
-                    <Item id="42008" name="Increase Line Indent"/>
-                    <Item id="42009" name="Decrease Line Indent"/>
-                    <Item id="42010" name="Duplicate Current Line"/>
-                    <Item id="42012" name="Split Lines"/>
-                    <Item id="42013" name="Join Lines"/>
-                    <Item id="42014" name="Move Up Current Line"/>   
-                    <Item id="42015" name="Move Down Current Line"/>   
-                    <Item id="42016" name="UPPERCASE"/>
-                    <Item id="42017" name="lowercase"/>
-                    <Item id="42018" name="&amp;Start Recording"/>
-                    <Item id="42019" name="&amp;Stop Recording"/>
-                    <Item id="42021" name="&amp;Playback"/>
-                    <Item id="42022" name="Toggle Block Comment"/>
-                    <Item id="42023" name="Stream Comment"/>
-                    <Item id="42042" name="Trim Leading Space"/>
-                    <Item id="42043" name="Trim Leading and Trailing Space"/>
+                    <Item id="42001" name="કાપો"/>
+                    <Item id="42002" name="ન&amp;કલ કરો"/>
+                    <Item id="42003" name="&amp;છેલી ક્રિયાને રદ કરો"/>
+                    <Item id="42004" name="&amp;ફરીથી કરો"/>
+                    <Item id="42005" name="&amp;ચોટાડો"/>
+                    <Item id="42006" name="&amp;કાઢી નાંખો"/>
+                    <Item id="42007" name="બધું પસંદ કરો"/>
+                    <Item id="42008" name="રેખા ઇન્ડેન્ટ વધારો"/>
+                    <Item id="42009" name="રેખા ઇન્ડેન્ટ ઘટાડો"/>
+                    <Item id="42010" name="વર્તમાન રેખાની નકલ કરો"/> <!-- can be improvised -->
+                    <Item id="42012" name="લીટી છૂટી પાડો"/> <!-- can be improvised, "લીટી તોડો / રેખા  તોડો" -->
+                    <Item id="42013" name="લીટીઓ જોડો"/>
+                    <Item id="42014" name="વર્તમાન લીટી ને ઉપર ખસેડો"/>   
+                    <Item id="42015" name="વર્તમાન લીટી ને નીચે ખસેડો"/>   
+                    <Item id="42016" name="UPPERCASE"/> <!-- can be improvised, "મોટા" -->
+                    <Item id="42017" name="lowercase"/> <!-- can be improvised, "મોટા" -->
+                    <Item id="42018" name="રેકોર્ડિંગ પ્રારંભ"/> <!-- can be improvised -->
+                    <Item id="42019" name="રેકોર્ડિંગ રોકો"/> <!-- can be improvised -->
+                    <Item id="42021" name="પ્લેબૅક"/>
+                    <Item id="42022" name="ટૉગલ બ્લોક ટિપ્પણી"/> <!-- can be improvised -->
+                    <Item id="42023" name="સ્ટ્રીમ ટિપ્પણી"/> <!-- can be improvised -->
+                    <Item id="42042" name="ટ્રીમ લીડીંગ સ્પેસ"/> <!-- can be improvised -->
+                    <Item id="42043" name="Trim Leading and Trailing Space"/> <!-- can be improvised, "ટટ્રીમ લીડીંગ એન્ડ ટ્રેલીંગ સ્પેસ" -->
                     <Item id="42044" name="EOL to Space"/>
                     <Item id="42045" name="Remove Unnecessary Blank and EOL"/>
                     <Item id="42046" name="TAB to Space"/>
                     <Item id="42047" name="Space to TAB"/>
-                    <Item id="42024" name="Trim Trailing Space"/>
+                    <Item id="42024" name="ટ્રીમ ટ્રેલીંગ સ્પેસ"/>
                     <Item id="42025" name="Save Currently Recorded Macro"/>
                     <Item id="42026" name="Text Direction RTL"/>
                     <Item id="42027" name="Text Direction LTR"/>
